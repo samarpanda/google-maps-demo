@@ -1,0 +1,21 @@
+{
+  "name": "google-maps-demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "vite",
+    "dev": "vite",
+    "build": "vite build --outDir dist --base './'"
+  },
+  "keywords": [],
+  "description": "",
+  "devDependencies": {
+    "@playwright/test": "^1.49.1",
+    "@types/google.maps": "^3.58.1",
+    "@types/node": "^22.10.2",
+    "typescript": "^5.7.2",
+    "vite": "^6.0.5"
+  },
+  "author": "",
+  "license": "ISC"
+}
